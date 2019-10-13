@@ -1,0 +1,7 @@
+C:\Users\lyss_\source\repos\ConversordeUnidades\ConversordeUnidades\bin\Debug\ConversordeUnidades.exe.config
+C:\Users\lyss_\source\repos\ConversordeUnidades\ConversordeUnidades\bin\Debug\ConversordeUnidades.exe
+C:\Users\lyss_\source\repos\ConversordeUnidades\ConversordeUnidades\bin\Debug\ConversordeUnidades.pdb
+C:\Users\lyss_\source\repos\ConversordeUnidades\ConversordeUnidades\obj\Debug\ConversordeUnidades.csprojAssemblyReference.cache
+C:\Users\lyss_\source\repos\ConversordeUnidades\ConversordeUnidades\obj\Debug\ConversordeUnidades.csproj.CoreCompileInputs.cache
+C:\Users\lyss_\source\repos\ConversordeUnidades\ConversordeUnidades\obj\Debug\ConversordeUnidades.exe
+C:\Users\lyss_\source\repos\ConversordeUnidades\ConversordeUnidades\obj\Debug\ConversordeUnidades.pdb

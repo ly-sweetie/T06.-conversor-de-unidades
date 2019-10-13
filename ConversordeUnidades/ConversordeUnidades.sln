@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversordeUnidades", "ConversordeUnidades\ConversordeUnidades.csproj", "{116143A7-F618-490F-8CAB-85F9ECFFD162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{116143A7-F618-490F-8CAB-85F9ECFFD162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116143A7-F618-490F-8CAB-85F9ECFFD162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116143A7-F618-490F-8CAB-85F9ECFFD162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116143A7-F618-490F-8CAB-85F9ECFFD162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BD735CB-F533-440A-BF2B-53B05B5F38C7}
+	EndGlobalSection
+EndGlobal
